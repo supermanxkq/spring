@@ -16,6 +16,7 @@
 
 ***使用方式***
 
-* 在项目根目录执行 gradlew appRun
-  gradlew 代表 gradle wrapper意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper
-  gradle appRun是gradle的命令。
+1. 在项目根目录执行 gradlew appRun
+2. 在浏览器中访问：http://localhost:8080/spring/hello
+* gradlew 代表 gradle wrapper意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper
+*  gradle appRun是gradle的命令。
